@@ -43,6 +43,8 @@ public class presentation {
 
             }
          System.out.println();
+
+            System.out.println(" ");
         }
 
 
